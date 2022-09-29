@@ -1,6 +1,6 @@
 # MADPractical7_20012011003
 
-What is BroadcastReceiver? Difference between Service and BroadcastReceiver. Create an Alarm application by using service & BroadcastReceiver by following below instructions.
+Create an Alarm application by using service & BroadcastReceiver by following below instructions.
 
 ![image](https://user-images.githubusercontent.com/110647839/193090411-1f5d7265-4d51-4b55-8de4-2678523b503c.png)
 ![image](https://user-images.githubusercontent.com/110647839/193090436-cfdeb569-8418-4dd7-be9d-74cf2ec0f632.png)
